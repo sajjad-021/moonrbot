@@ -29,7 +29,6 @@ else
               \033[5mV $ver\033[0m
 "
   while true; do
-    moon bot.moon
     sleep 10s
   done
 fi
